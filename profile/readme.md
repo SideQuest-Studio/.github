@@ -1,7 +1,8 @@
 ![](assets/sidequest.jpg)
-
-# SideQuest Studio
-### A group of multi-talented individuals with different forte in technology
+<center>
+<h1>SideQuest Studio</h1>
+<h3>A group of multi-talented individuals with different forte in technology</h3>
+</center>
 
 ### What "WE" can Offer?
 * Frontend Development
