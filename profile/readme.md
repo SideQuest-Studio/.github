@@ -26,67 +26,65 @@ SideQuest Studio is a collective of developers and designers working across the 
 
 ## Services
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="33%" valign="top">
 
-<img src="https://img.shields.io/badge/-Frontend-2C4BE2?style=flat-square">
 
-### Frontend Development
+**Frontend Development**
+
 Responsive, accessible interfaces built with modern frameworks and clean, maintainable code.
 
 `React` `Next.js` `Tailwind CSS`
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="33%" valign="top">
 
-<img src="https://img.shields.io/badge/-Backend-2C4BE2?style=flat-square">
 
-### Backend Development
+**Backend Development**
+
 Reliable APIs, database architecture, and server-side systems built to scale.
 
 `Node.js` `Express` `PostgreSQL`
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td align="center" width="33%" valign="top">
 
-<img src="https://img.shields.io/badge/-Full--Stack-2C4BE2?style=flat-square">
 
-### Full-Stack Development
+**Full-Stack Development**
+
 Complete, end-to-end product builds — from database to interface.
 
 `MERN` `REST APIs` `System Integration`
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td align="center" width="33%" valign="top">
 
-<img src="https://img.shields.io/badge/-Mobile-2C4BE2?style=flat-square">
 
-### Mobile Development
+**Mobile Development**
+
 Native and cross-platform apps designed for performance and usability.
 
 `React Native` `Flutter` `Android`
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td align="center" width="33%" valign="top">
 
-<img src="https://img.shields.io/badge/-Automation-2C4BE2?style=flat-square">
 
-### Automation
+**Automation**
+
 Custom scripts and tools that eliminate repetitive work and streamline delivery.
 
 `Python` `Scripting` `Workflow Tools`
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="33%" valign="top">
 
-<img src="https://img.shields.io/badge/-Design-2C4BE2?style=flat-square">
 
-### Graphic Design
+**Graphic Design**
+
 Visual identity, branding, and design assets that make products stand out.
 
 `Figma` `Branding` `UI/UX`
@@ -163,34 +161,34 @@ Visual identity, branding, and design assets that make products stand out.
 
 ## Team
 
-<table>
+<table width="100%">
 <tr>
 <td align="center" width="20%">
-<img src="https://github.com/WareBar.png" width="80" style="border-radius:50%"><br>
+<img src="https://github.com/WareBar.png" width="110" style="border-radius:50%"><br><br>
 <b>Abdul Barry Adam</b><br>
 <sub>Full-Stack Developer</sub><br>
 <a href="https://github.com/WareBar">@WareBar</a>
 </td>
 <td align="center" width="20%">
-<img src="https://github.com/seiyanndev.png" width="80" style="border-radius:50%"><br>
+<img src="https://github.com/seiyanndev.png" width="110" style="border-radius:50%"><br><br>
 <b>Kurt Atoat</b><br>
 <sub>Frontend Engineer</sub><br>
 <a href="https://github.com/seiyanndev">@seiyanndev</a>
 </td>
 <td align="center" width="20%">
-<img src="https://github.com/SaucesCode.png" width="80" style="border-radius:50%"><br>
+<img src="https://github.com/SaucesCode.png" width="110" style="border-radius:50%"><br><br>
 <b>James Patrick De Mesa</b><br>
 <sub>Full-Stack Developer</sub><br>
 <a href="https://github.com/SaucesCode">@SaucesCode</a>
 </td>
 <td align="center" width="20%">
-<img src="https://github.com/Meinya312.png" width="80" style="border-radius:50%"><br>
+<img src="https://github.com/Meinya312.png" width="110" style="border-radius:50%"><br><br>
 <b>Steven Maraig</b><br>
 <sub>Systems Developer</sub><br>
 <a href="https://github.com/Meinya312">@Meinya312</a>
 </td>
 <td align="center" width="20%">
-<img src="https://github.com/RyannKim327.png" width="80" style="border-radius:50%"><br>
+<img src="https://github.com/RyannKim327.png" width="110" style="border-radius:50%"><br><br>
 <b>Ryann Kim Sesgundo</b><br>
 <sub>Systems Architect</sub><br>
 <a href="https://github.com/RyannKim327">@RyannKim327</a>
