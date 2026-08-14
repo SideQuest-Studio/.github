@@ -134,7 +134,7 @@ Visual identity, branding, and design assets that make products stand out.
 ![Vercel](https://img.shields.io/badge/Vercel-0B0E1A?style=for-the-badge&logo=vercel&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-0B0E1A?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Netlify](https://img.shields.io/badge/Netlify-0B0E1A?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-![Render](https://img.shields.io/badge/Render-0B0E1A?style=for-the-badge&logo=render&logoColor=FF9900)
+![Render](https://img.shields.io/badge/Render-0B0E1A?style=for-the-badge&logo=render&logoColor=white)
 
 </div>
 
