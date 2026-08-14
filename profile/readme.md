@@ -8,6 +8,7 @@
 
 <br>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-2C4BE2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sidequeststd-io.is-local.org/)
 [![DevPulse](https://img.shields.io/badge/DevPulse-Leaderboard-2C4BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://devpulse-olive.vercel.app/leaderboard/mga-tambay-sa-comlab)
 [![Status](https://img.shields.io/badge/Status-Active-2C4BE2?style=for-the-badge)](#)
 [![Team](https://img.shields.io/badge/Team-Multi--disciplinary-0B0E1A?style=for-the-badge)](#)
@@ -35,7 +36,7 @@ SideQuest Studio is a collective of developers and designers working across the 
 
 Responsive, accessible interfaces built with modern frameworks and clean, maintainable code.
 
-`React` `Next.js` `Tailwind CSS`
+`React` `Svelte` `Tailwind CSS`
 
 </td>
 <td align="center" width="33%" valign="top">
@@ -45,7 +46,7 @@ Responsive, accessible interfaces built with modern frameworks and clean, mainta
 
 Reliable APIs, database architecture, and server-side systems built to scale.
 
-`Node.js` `Express` `PostgreSQL`
+`Node.js` `Express` `PostgreSQL`, `Django` `Flask` `FastAPI` `Go GIN` `PHP` `Laravel` `MySQL`
 
 </td>
 <td align="center" width="33%" valign="top">
@@ -55,7 +56,7 @@ Reliable APIs, database architecture, and server-side systems built to scale.
 
 Complete, end-to-end product builds — from database to interface.
 
-`MERN` `REST APIs` `System Integration`
+`Next.Js` `MERN` `REST APIs` `System Integration`
 
 </td>
 </tr>
@@ -77,7 +78,7 @@ Native and cross-platform apps designed for performance and usability.
 
 Custom scripts and tools that eliminate repetitive work and streamline delivery.
 
-`Python` `Scripting` `Workflow Tools`
+`Python` `Scripting` `Workflow Tools` `Github CI/CD` `N8N` `NodeJs` `CronJob`
 
 </td>
 <td align="center" width="33%" valign="top">
@@ -111,6 +112,7 @@ Visual identity, branding, and design assets that make products stand out.
 ![React Native](https://img.shields.io/badge/React_Native-0B0E1A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-0B0E1A?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Python](https://img.shields.io/badge/Python-0B0E1A?style=for-the-badge&logo=python&logoColor=3776AB)
+![Go](https://img.shields.io/badge/Go-0B0E1A?style=for-the-badge&logo=python&logoColor=01A4D0)
 
 </div>
 
@@ -220,6 +222,7 @@ We track our team's contributions and progress publicly in real time.
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-2C4BE2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sidequeststd-io.is-local.org/)
 [![Instagram](https://img.shields.io/badge/Instagram-2C4BE2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sidequeststudio.ph/)
 [![Facebook](https://img.shields.io/badge/Facebook-2C4BE2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61570766930085)
 
