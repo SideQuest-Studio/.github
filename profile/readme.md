@@ -121,6 +121,7 @@ Visual identity, branding, and design assets that make products stand out.
 ![MySQL](https://img.shields.io/badge/MySQL-0B0E1A?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0B0E1A?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![Firebase](https://img.shields.io/badge/Firebase-0B0E1A?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B0E1A?style=for-the-badge&logo=postgresql&logoColor=31638B)
 
 </div>
 
@@ -131,6 +132,7 @@ Visual identity, branding, and design assets that make products stand out.
 ![Vercel](https://img.shields.io/badge/Vercel-0B0E1A?style=for-the-badge&logo=vercel&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-0B0E1A?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Netlify](https://img.shields.io/badge/Netlify-0B0E1A?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+![Render](https://img.shields.io/badge/Render-0B0E1A?style=for-the-badge&logo=render&logoColor=FF9900)
 
 </div>
 
@@ -142,6 +144,8 @@ Visual identity, branding, and design assets that make products stand out.
 ![GitHub](https://img.shields.io/badge/GitHub-0B0E1A?style=for-the-badge&logo=github&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-0B0E1A?style=for-the-badge&logo=androidstudio&logoColor=3DDC84)
 ![n8n](https://img.shields.io/badge/n8n-0B0E1A?style=for-the-badge&logo=n8n&logoColor=EA4B71)
+![Github CI/CD](https://img.shields.io/badge/GitHub_CI/CD-0B0E1A?style=for-the-badge&logo=github&logoColor=white)
+![WordPress](https://img.shields.io/badge/Wordpress-0B0E1A?style=for-the-badge&logo=wordpress&logoColor=white)
 
 </div>
 
@@ -159,7 +163,7 @@ Visual identity, branding, and design assets that make products stand out.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0E1A,100:2C4BE2&height=3&section=header" width="100%">
 
-## Team
+## Team Founder
 
 <table width="100%">
 <tr>
