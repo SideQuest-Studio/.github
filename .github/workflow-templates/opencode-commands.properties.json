@@ -1,0 +1,6 @@
+{
+  "name": "OpenCode Slash Commands",
+  "description": "Run OpenCode by commenting /oc or /opencode on issues and pull requests",
+  "iconName": "octicon comment-discussion",
+  "categories": ["Automation"]
+}

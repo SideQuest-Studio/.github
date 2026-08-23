@@ -1,13 +1,23 @@
-name: opencode pr
+name: OpenCode PR Review
 
 on:
-  pull_request:
-    types: [opened]
+  workflow_call:
+    inputs:
+      model:
+        description: Model to use (provider/model format)
+        required: false
+        type: string
+        default: opencode/big-pickle
+      prompt:
+        description: Optional custom review prompt (empty = default PR review)
+        required: false
+        type: string
 
 jobs:
-  opencode:
+  review:
     runs-on: ubuntu-latest
     permissions:
+      id-token: write
       contents: write
       pull-requests: write
       issues: write
@@ -16,18 +26,19 @@ jobs:
         uses: actions/checkout@v6
         with:
           fetch-depth: 1
-          token: ${{ secrets.GH_TOKEN }}
+          persist-credentials: false
 
       - name: Configure git identity
         run: |
-          git config --global user.name "RyannKim327"
-          git config --global user.email "weryses19@gmail.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
       - name: Run opencode
         uses: anomalyco/opencode/github@latest
         env:
           OPENCODE_API_KEY: ${{ secrets.OPENCODE_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN || github.token }}
         with:
-          model: opencode/big-pickle
+          model: ${{ inputs.model }}
           use_github_token: true
+          prompt: ${{ inputs.prompt }}

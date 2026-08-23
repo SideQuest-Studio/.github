@@ -1,0 +1,6 @@
+{
+  "name": "OpenCode PR Review",
+  "description": "Automated OpenCode AI code review on every pull request",
+  "iconName": "octicon eye",
+  "categories": ["Automation"]
+}
